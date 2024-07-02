@@ -41,4 +41,27 @@
 HyperClova X API 키 및 기타 필요한 설정을 추가합니다.
 
 ## 사용법
+### 로컬 서버로 이동:
 
+웹 브라우저를 열고 http://localhost:8501로 이동합니다.
+
+
+### 문서 업로드 및 비서와 상호 작용:
+
+사이드바를 사용하여 파일을 업로드합니다.  
+채팅 입력을 사용하여 AI 비서와 상호 작용합니다.  
+
+## 구성
+
+### 환경 변수
+
+**HyperClova X API 키:**
+
+- X-NCP-CLOVASTUDIO-API-KEY: Clova Studio API 키.
+- X-NCP-APIGW-API-KEY: Clova Studio API 게이트웨이 키.
+- X-NCP-CLOVASTUDIO-REQUEST-ID: Clova Studio 요청 ID.
+
+
+**기타 설정:**
+
+- 필요에 따라 app_utils.py 및 job.py 파일에서 경로 및 설정을 조정합니다.
