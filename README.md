@@ -3,9 +3,14 @@
 
 루피봇에 오신 것을 환영합니다! 이 프로젝트는 취업 공고를 탐색하고 다음 커리어를 준비하는 데 도움을 주기 위해 설계된 취업 지원 봇입니다. 이 봇은 HyperClova X를 활용한 자연어 처리와 기타 고급 기능을 통해 매끄러운 사용자 경험을 제공합니다.
 
+![다운로드 (7)](https://github.com/jh941213/luffy_bot/assets/112835087/7e59c090-c9b0-4e06-975a-32d4e06e7afa)  
+
+
 [**🙌 개발과정**](https://hyun941213.tistory.com/entry/%EB%82%98%EB%A7%8C%EC%9D%98-%EC%9B%90%ED%94%BC%EC%8A%A4-%EB%A3%A8%ED%94%BC-%EC%B1%97%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0-with-HyperClovaX)
 
 블로그 글을 참고해서 따라 하시면 조금 더 쉽게 개발 가능합니다.  
+
+![다운로드 (6)](https://github.com/jh941213/luffy_bot/assets/112835087/f77d7cbe-fdba-49e0-9bd1-c42df2d61777)  
 
 ## 목차
 - [기능](#기능)
