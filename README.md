@@ -26,6 +26,16 @@
    git clone https://github.com/jh941213/luffy_bot.git
    cd your-repo-name
    ```
-2. 가상 환경 생성 및 활성화:
+2. **가상 환경 생성 및 활성화:**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate # Windows의 경우 venv\Scripts\activate
+   ```
+**필요한 패키지 설치:**
+  ```bash
+  pip install -r requirements.txt
+```
+ **API 키 및 환경 변수 설정:**
 
-
+.env.example 파일을 .env로 복사합니다.
+HyperClova X API 키 및 기타 필요한 설정을 추가합니다.
