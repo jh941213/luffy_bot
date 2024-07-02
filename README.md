@@ -23,7 +23,7 @@
 
 1. **저장소 클론:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/jh941213/luffy_bot.git
    cd your-repo-name
    ```
 2. 가상 환경 생성 및 활성화:
