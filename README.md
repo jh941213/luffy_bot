@@ -6,9 +6,7 @@
 ![다운로드 (7)](https://github.com/jh941213/luffy_bot/assets/112835087/7e59c090-c9b0-4e06-975a-32d4e06e7afa)  
 
 
-[**🙌 개발과정**](https://hyun941213.tistory.com/entry/%EB%82%98%EB%A7%8C%EC%9D%98-%EC%9B%90%ED%94%BC%EC%8A%A4-%EB%A3%A8%ED%94%BC-%EC%B1%97%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0-with-HyperClovaX)
 
-블로그 글을 참고해서 따라 하시면 조금 더 쉽게 개발 가능합니다.  
 
 ![다운로드 (6)](https://github.com/jh941213/luffy_bot/assets/112835087/f77d7cbe-fdba-49e0-9bd1-c42df2d61777)  
 
